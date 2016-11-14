@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">应急电源 Demo</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_peripheral">外围设备</string>
+    <string name="Peripheral">外设:</string>
+    <string name="RSSI">信号强度:</string>
+    <string name="Address">地址:</string>
+    <string name="Status">状态:</string>
+    <string name="Name">名字:</string>
+    <string name="Read">读</string>
+    <string name="Write">写</string>
+    <string name="Service">服务:</string>
+    <string name="Characteristic">特征:</string>
+    <string name="Data_Type">数据类型:</string>
+    <string name="Properties">属性:</string>
+    <string name="String">字符串:</string>
+    <string name="Decimal">十进制数:</string>
+    <string name="Updated">更新</string>
+    
+
+</resources>
